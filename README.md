@@ -1,0 +1,2 @@
+# LR2FolderGenerator
+LR2で認識可能なBPM,minbpフォルダを作るアプリケーション
